@@ -1,14 +1,17 @@
 ## Hi there, I'm Arunita Sarkar!! 👋
 
+♏ Scorpio 🐶 Dog lover ❤️ Reading, Music, Traveling 📺 Horror, Crime, Thriller, Suspense 
+
 🔭 I’m currently working as an Associate Data Analyst @ Cardlytics, Inc.
 
 An experienced and driven data analyst with a passion for transforming messy data into valuable insights and uncovering underlying trends. From the inception of an idea to data collection, manipulation, and presentation, I am well-equipped to support each stage with efficiency and precision. My strengths lie in my problem-solving mindset, and I am motivated by opportunities to make a positive impact.
 
 I began my career as a developer in 2016 at Tata Consultancy Services and gradually transitioned into the world of data analysis. My passion for working with data led me to pursue a Master’s degree with a specialization in Big Data Analytics from Georgia State University. My expertise now spans data preprocessing, data analysis, data visualization and data reporting.
 
-Outside of work, I enjoy reading books, watching thrillers or horror movies, and traveling. I am always up for a good adventure and am known for my love for dogs.
+Outside of work, I am looking for new adventures and experiences.
+Currently, I am learning acrylic painting.
 
-## 💻 SKILLS:
+## 💻 Skills:
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +24,8 @@ Outside of work, I enjoy reading books, watching thrillers or horror movies, and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunitasarkar18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunitasarkar18/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arunita.sarkar/vizzes)
+
+Please feel free to reach out to me via Email/LinkedIn if you are interested to connect with me!
 
 <!--
 **ASarkar0611/ASarkar0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
