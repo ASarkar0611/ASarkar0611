@@ -10,7 +10,7 @@
 
 ## 💻 SKILLS:
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=MySQL&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
