@@ -4,7 +4,7 @@
 
 An experienced and driven data analyst with a passion for transforming messy data into valuable insights and uncovering underlying trends. From the inception of an idea to data collection, manipulation, and presentation, I am well-equipped to support each stage with efficiency and precision. My strengths lie in my problem-solving mindset, and I am motivated by opportunities to make a positive impact.
 
-I began my career as a developer in 2016 at Tata Consultancy Services and gradually transitioned into the world of data analysis. My passion for working with data led me to pursue a Master’s degree with a specialization in Big Data Analytics ## from Georgia State University. My expertise now spans data preprocessing, data analysis, data visualization and data reporting.
+I began my career as a developer in 2016 at Tata Consultancy Services and gradually transitioned into the world of data analysis. My passion for working with data led me to pursue a Master’s degree with a specialization in Big Data Analytics from Georgia State University. My expertise now spans data preprocessing, data analysis, data visualization and data reporting.
 
 Outside of work, I enjoy reading books, watching thrillers or horror movies, and traveling. I am always up for a good adventure and am known for my love for dogs.
 
