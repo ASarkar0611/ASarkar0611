@@ -2,7 +2,7 @@
 
 ♏ Scorpio 🐶 Dog lover 🍰 Foodie, Sweet-tooth ❤️ Reading, Cooking, Music, Traveling 📺 Horror, Crime, Thriller, Suspense 
 
-🔭 I’m currently working as an Associate Data Analyst @ Cardlytics, Inc.
+💼 __Associate Data Analyst @ Cardlytics, Inc.__
 
 An experienced and driven data analyst with a passion for transforming messy data into valuable insights and uncovering underlying trends. From the inception of an idea to data collection, manipulation, and presentation, I am well-equipped to support each stage with efficiency and precision. My strengths lie in my problem-solving mindset, and I am motivated by opportunities to make a positive impact.
 
