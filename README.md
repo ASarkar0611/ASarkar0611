@@ -11,7 +11,7 @@ I began my career as a developer in 2016 at Tata Consultancy Services and gradua
 Outside of work, I am looking for new adventures and experiences.
 Currently, I am learning acrylic painting.
 
-## 💻 Skills:
+## 💻 Skills
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +19,7 @@ Currently, I am learning acrylic painting.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Contact
+## 📨 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunitasarkar18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunitasarkar18/)
