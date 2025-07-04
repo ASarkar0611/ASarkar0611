@@ -27,6 +27,8 @@ Currently, I am learning acrylic painting.
 
 Please feel free to reach out to me via Email/LinkedIn if you are interested to connect with me!
 
+Visitors: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ASarkar0611.ASarkar0611)
+
 <!--
 **ASarkar0611/ASarkar0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
