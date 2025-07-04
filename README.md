@@ -25,9 +25,9 @@ Currently, I am learning acrylic painting.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunitasarkar18/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arunita.sarkar/vizzes)
 
-Please feel free to reach out to me via Email/LinkedIn if you are interested to connect with me!
+If interested, feel free to connect with me via email or linkedin!
 
-Visitors: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ASarkar0611.ASarkar0611)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ASarkar0611.ASarkar0611)
 
 <!--
 **ASarkar0611/ASarkar0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
