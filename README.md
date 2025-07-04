@@ -1,6 +1,6 @@
 ## Hi there, I'm Arunita Sarkar!! 👋
 
-♏ Scorpio 🐶 Dog lover ❤️ Reading, Music, Traveling 📺 Horror, Crime, Thriller, Suspense 
+♏ Scorpio 🐶 Dog lover 🍰 Foodie, Sweet-tooth ❤️ Reading, Cooking, Music, Traveling 📺 Horror, Crime, Thriller, Suspense 
 
 🔭 I’m currently working as an Associate Data Analyst @ Cardlytics, Inc.
 
